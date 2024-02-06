@@ -8,11 +8,7 @@ In the dynamic realm of real estate, accurately gauging rental prices is pivotal
 
 1. Key Technologies and Skills
 2. Installation
-3. Usage
-4. Features
-5. Contributing
-6. License
-7. Contact
+3. Features
 
 
 ## Key Technologies and Skills
@@ -42,15 +38,6 @@ pip install matplotlib
 pip install seaborn
 pip install streamlit
 ```
-
-## Usage
-
-To use this project, follow these steps:
-
-1. Clone the repository: ```git clone https://github.com/gopiashokan/Rental-Property-Prices-Prediction.git```
-2. Install the required packages: ```pip install -r requirements.txt```
-3. Run the Streamlit app: ```streamlit run app.py```
-4. Access the app in your browser at ```http://localhost:8501```
 
 
 ## Features
@@ -94,20 +81,3 @@ To use this project, follow these steps:
 - **Prediction**: Users provide input parameters and leveraging the pre-trained Random Forest Regressor model stored in a pickle file, the system predicts weekly sales based on the user's input. Users can experiment with various combinations of input values, allowing our machine learning regression model to dynamically forecast rent tailored to the provided data parameters. This interactive feature enhances user engagement and facilitates personalized predictions.
 
 
-## Contributing
-
-Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
-
-
-## License
-
-This project is licensed under the MIT License. Please review the LICENSE file for more details.
-
-
-## Contact
-
-📧 Email: gopiashokankiot@gmail.com 
-
-🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
-
-For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
